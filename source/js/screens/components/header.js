@@ -2,6 +2,6 @@ import React from 'react';
 
 export default () => (
   <div className="header">
-    Header
+    <h1>Map The Things Network</h1>
   </div>
 );
